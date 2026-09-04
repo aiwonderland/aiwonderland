@@ -1,4 +1,4 @@
-👀I am watching you...
+~~👀I am watching you...~~Sorry, I'm in school now
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
